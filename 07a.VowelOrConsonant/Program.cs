@@ -2,16 +2,7 @@
 
 switch (letter)
 {
-    case 'A':
-    case 'a':
-    case 'E':
-    case 'e':
-    case 'I':
-    case 'i':
-    case 'O':
-    case 'o':
-    case 'U':
-    case 'u':
+    case 'A'or 'a' or 'E' or 'e' or 'I' or 'i' or 'O' or 'o' or 'U' or 'u':
         Console.WriteLine("Vowel");
         break;
     default:
